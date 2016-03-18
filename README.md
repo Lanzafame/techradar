@@ -1,10 +1,8 @@
-Build Your Own Technology Radar.
+# Build Your Own Technology Radar.
 
 Inspired by the ThoughtWorks Tech Radar: http://www.thoughtworks.com/radar/.
 
 I love the ThoughtWorks Radar. But it is for all clients, averaged out across industries, organisational maturity and risk adverseness.
-
-![Technology Radar Sample](/techradar_example.png?raw=true)
 
 It is a powerful talking point, but I need it to be customised for particular circumstances.
 
@@ -23,3 +21,14 @@ Appears in the Lower Left Quadrant, in the second "Trial" Sector.
 Where r = radius, and t = theta; the degrees in radians. with 0/360 degrees being the typical right hand x line rotating in an anti-clockwise direction.
 
 See http://en.wikipedia.org/wiki/Polar_coordinates for more details.
+
+
+## TODO
+
+ - Add easy way to add/update/remove items.
+ - Add simple deploy ability for internal company use.
+
+
+## Credit
+
+Original code and design belongs to https://github.com/bdargan/techradar.
